@@ -8,6 +8,6 @@ This project is a simple calculator built using Python and the Tkinter library..
 - Clear and easy-to-use graphical user interface
 - Basic error handling for division by zero
 
-## Getting Started
+## Getting Started Calculator
 
 To run the calculator, you need to have Python installed on your system. You can simply clone the repository and execute the `calculator.py` file.
